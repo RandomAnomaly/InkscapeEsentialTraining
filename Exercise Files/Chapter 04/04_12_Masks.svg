@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11in"
+   height="8.5in"
+   viewBox="0 0 990 765"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="04_12_Masks.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71372549"
+     inkscape:cx="527.22527"
+     inkscape:cy="382.5"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1360"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-287.3622)">
+    <image
+       sodipodi:absref="C:\Users\Mike Rankin\Desktop\Exercise Files\Links\chevywagon.jpg"
+       y="533.65448"
+       x="51.292294"
+       id="image4208"
+       xlink:href="file:///C:/Users/Mike%20Rankin/Desktop/Exercise%20Files/Links/chevywagon.jpg"
+       preserveAspectRatio="none"
+       height="263"
+       width="500" />
+    <image
+       sodipodi:absref="C:\Users\Mike Rankin\Desktop\Exercise Files\Links\yellowflower.jpg"
+       y="453.38528"
+       x="619.7077"
+       id="image4219"
+       xlink:href="file:///C:/Users/Mike%20Rankin/Desktop/Exercise%20Files/Links/yellowflower.jpg"
+       preserveAspectRatio="none"
+       height="400"
+       width="300" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#1affff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 769.08756,620.3589 c -11.18281,-18.60225 -35.89177,-47.39415 -40.84235,-50.48826 -4.95059,-3.09412 -18.24109,-6.28025 -22.71201,4.22343 -4.05659,9.53031 -5.26879,21.79449 -11.79518,23.14636 -2.01277,7.45717 -12.20501,17.0667 -16.28676,18.97334 -8.67042,4.05007 -13.5034,5.69084 -12.21343,12.59632 0,0 5.50078,9.23837 11.07019,11.71366 5.56941,2.47529 32.84696,12.95131 51.6873,17.76464 -10.17086,5.59585 -75.32193,9.86721 -74.37143,35.71051 5.24444,9.03891 31.01625,14.73914 31.30367,23.51529 15.82132,17.96519 0.98534,29.14833 5.89437,39.33548 5.66773,11.7616 21.81496,8.67124 26.20294,5.65738 7.68175,-5.27618 34.69164,-35.2665 41.14266,-48.16851 -2.51928,15.54033 -0.725,46.68179 -0.0311,53.48159 1.27518,12.49554 13.35135,28.93456 21.39603,27.6969 8.04472,-1.23763 8.97476,-8.24708 12.45158,-15.50166 4.18808,-8.73862 7.54997,-14.40397 24.52129,-17.14581 15.31363,-2.47407 22.50472,5.77252 27.52206,5.10072 5.01733,-0.67179 13.88901,-7.48001 8.92628,-20.35253 -5.61418,-14.56246 -26.50322,-40.39834 -33.27274,-48.74334 8.78617,6.55974 43.02138,17.55252 52.89386,18.52716 9.24481,0.91269 24.09662,-3.49415 24.09662,-12.15768 0,-8.66351 -16.3082,-22.66481 -11.53243,-34.5415 -2.66305,-7.06339 -0.23838,-16.8524 3.05011,-21.98378 3.56922,-5.56941 8.91982,-7.5385 8.30107,-15.58321 -0.61887,-8.04471 -12.97392,-11.25493 -19.43341,-11.13238 -17.12766,0.32496 -50.56231,12.80328 -56.60681,14.55357 0,0 21.61054,-21.36464 27.59068,-30.76204 8.66358,-13.61411 11.21369,-25.03961 6.76958,-31.99756 -5.13834,-8.0447 -15.79555,-1.1186 -22.27766,-2.03773 -6.51306,-0.92353 -8.91988,-3.52524 -10.66368,-5.89435 -3.71301,-0.61882 -12.95781,-6.33195 -16.05191,-9.75747 -2.87531,-3.20672 -4.88198,-9.31343 -9.21374,-9.31343 -4.33171,0 -10.46955,2.25004 -15.93923,13.13899 -10.72059,37.36218 -11.57641,60.4259 -11.57641,60.4259 z"
+       id="path4719"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscssscccsscsssszscsscssscsssccsccc" />
+  </g>
+</svg>
